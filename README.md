@@ -1,3 +1,3 @@
-# Flask Commerce
+# Flask Microblog
 
-Simple e-commerce solution built with Flask
+Simple microblog built with Flask
